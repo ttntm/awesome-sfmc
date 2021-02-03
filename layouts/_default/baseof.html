@@ -29,7 +29,7 @@
     {{ block "main" . }}{{ end }}
   </main>
   <footer class="px1" style="background-color: transparent; margin: 1rem 0;">
-    <p class="small text-light m0">&copy; <a class="regular" href="https://ttntm.me">{{ .Site.Author.name }}</a> {{ dateFormat "2006" now }}, built with <a
+    <p class="small m0">&copy; <a class="regular" href="https://ttntm.me">{{ .Site.Author.name }}</a> {{ dateFormat "2006" now }}, built with <a
         class="regular" href="https://gohugo.io" rel="noopener" target="_blank">Hugo</a>, deployed by <a class="regular"
         href="https://www.netlify.com" rel="noopener" target="_blank">Netlify</a></p>
     <ul class="list-reset list-inline small">
@@ -44,6 +44,14 @@
     </ul>
   </footer>
   <style>
+    a {
+      font-weight: normal;
+      text-decoration: none;
+    }
+    a:hover, a.regular:hover {
+      color: var(--prim);
+      text-decoration: underline;
+    }
     li > ul {
       margin-bottom: 0;
     }
