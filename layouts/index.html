@@ -1,0 +1,6 @@
+{{ define "main" }}
+  <p class="small text-center">Last updated: {{ dateFormat "Monday, Jan 2, 2006" now }}</p>
+  {{ readFile "README.md" | markdownify }}
+  <hr>
+  {{ readFile "CONTRIBUTING.md" | markdownify }}
+{{ end }}

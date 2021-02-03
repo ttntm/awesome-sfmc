@@ -1,0 +1,32 @@
+# SETUP
+baseurl = "https://sfmc.ttntm.me"
+publishdir = "public"
+DefaultContentLanguage = "en"
+canonifyUrls = false
+googleAnalytics = ""
+# pygmentsUseClasses = "true"
+PygmentsCodeFences = true
+PygmentsStyle = "tango"
+# PygmentsOptions = "linenos=inline" -- line numbers for code blocks
+disableKinds = ["RSS","sitemap","taxonomy","taxonomyTerm"]
+
+# for RSS feed
+[author]
+    name = "ttntm"
+    email = "ttntm@pm.me"
+
+[params]
+    title = "Awesome SFMC"
+    description = "A curated list of awesome things related to Salesforce Marketing Cloud"
+    DateForm = "02.01.2006"
+    images = ["/img/sfmc-logo.png"]
+
+[[params.social]]
+    title = "Email"
+    url = "mailto:ttntm@pm.me"
+[[params.social]]
+    title = "GitHub"
+    url = "https://github.com/ttntm/awesome-sfmc"
+[[params.social]]
+    title = "Twitter"
+    url = "https://twitter.com/thet0m"
