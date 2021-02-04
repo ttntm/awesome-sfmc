@@ -86,6 +86,7 @@
 - [Create A Searchable Content Directory With CloudPages](https://invokecreate.dev/create-a-searchable-content-directory-with-cloudpages)
 - [How to use WSProxy to work with Data Extensions in server-side JavaScript](https://ampscript.xyz/how-tos/how-to-use-wsproxy-to-work-with-data-extensions-in-ssjs/)
 - [SFMC Server-Side JavaScript 1: Intro](https://gortonington.com/sfmc-server-side-javascript-1-intro/) (Start of a series of articles; probably the best resource on SSJS out there)
+- [Introduction to Server Side JavaScript for Marketing Cloud](https://sfdcbrewery.github.io/SalesforceSSJS/)
 
 ### Books
 
