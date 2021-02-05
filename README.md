@@ -72,6 +72,7 @@
 - [gist.github.com/wvpv](https://gist.github.com/wvpv) (AMPscript, SSJS, SQL, etc.)
 - [gist.github.com/katydorjee](https://gist.github.com/katydorjee) (AMPscript, SSJS, SQL)
 - [gist.github.com/zuzannamj](https://gist.github.com/zuzannamj) (AMPscript, SSJS, SQL, etc.)
+- [gist.github.com/jdeblank](https://gist.github.com/jdeblank) (SSJS, WSProxy)
 
 ### Articles
 
