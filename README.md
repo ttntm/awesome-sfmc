@@ -62,6 +62,7 @@
 #### Scripts and Code Snippets
 
 - [Journey Builder custom activity example](https://github.com/salesforce-marketingcloud/sfmc-example-jb-custom-activity)
+- [Marketing Cloud - Service Cloud Custom Split Activity](https://github.com/mslabina/sfmc-servicecloud-customsplit)
 - [Sample Salesforce Marketing Cloud Content Builder Block](https://github.com/bohawi/sfmc-cb-gdrive-block) (custom content block)
 - [github.com/HowToSFMC](https://github.com/HowToSFMC) (see above; code related to the articles there)
 - [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate/blob/master/email.html)
