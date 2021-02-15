@@ -1,6 +1,8 @@
 # awesome-sfmc
 
-> ☁️ A curated list of awesome things related to Salesforce Marketing Cloud
+☁️ A curated list of awesome things related to Salesforce Marketing Cloud
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 - [Find this collection @ GitHub](https://github.com/ttntm/awesome-sfmc)
 
