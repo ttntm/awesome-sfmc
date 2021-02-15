@@ -39,7 +39,7 @@
 - [AMPscript Blog](https://ampscript.xyz/)
 - [Email Client Market Share (2019)](https://www.litmus.com/blog/infographic-the-2019-email-client-market-share/)
 - [Create Responsive Emails without Media Queries](https://www.freecodecamp.org/news/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848/amp/)
-- [Awesome Salesforce Marketing Cloud](https://github.com/sfmcdg/awesome-salesforce-marketingcloud)(Another collection of helpful resources for working with SFMC)
+- [Awesome Salesforce Marketing Cloud](https://github.com/sfmcdg/awesome-salesforce-marketingcloud) (Another collection of helpful resources for working with SFMC)
 - [markus.codes](https://markus.codes/) (Markus Slabina's mostly Salesfoce related blog)
 - [sfmarketing.cloud](https://sfmarketing.cloud) (Salesforce Marketing Cloud Technical Blog)
 - [HowToSFMC](https://www.howtosfmc.com/) (Resource for SFMC users made by SFMC users)
