@@ -60,6 +60,7 @@
 - [Fuel SOAP Client (for Node.js)](https://github.com/salesforce-marketingcloud/FuelSDK-Node-SOAP)
 - [poo.email - a disposable email service](https://poo.email)
 - [topol.io](https://topol.io/) (Free browser-based HTML email generator with a nice UI)
+- [caniemail.com](https://www.caniemail.com/) (CanIUse for email stuff)
 
 #### Scripts and Code Snippets
 
