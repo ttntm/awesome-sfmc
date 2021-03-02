@@ -4,8 +4,6 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-- [Find this collection @ GitHub](https://github.com/ttntm/awesome-sfmc)
-
 ## Table of Contents
 
 - [awesome-sfmc](#awesome-sfmc)
