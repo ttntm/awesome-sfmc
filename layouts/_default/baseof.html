@@ -24,26 +24,29 @@
 </head>
 
 <body>
-  <header class="container">
+  <header id="top" class="container">
     <img class="d-block mx-auto" src="{{ .Site.BaseURL }}/img/sfmc-logo.png" alt="SFMC Logo" style="width: 500px; max-width:100%;">
   </header>
   <main class="container">
     {{ block "main" . }}{{ end }}
   </main>
   <footer class="px1" style="background-color: transparent; margin: 1rem 0;">
-    <p class="small m0">&copy; <a class="regular" href="https://ttntm.me">{{ .Site.Author.name }}</a> {{ dateFormat "2006" now }}, built with <a
-        class="regular" href="https://gohugo.io" rel="noopener" target="_blank">Hugo</a>, deployed by <a class="regular"
-        href="https://www.netlify.com" rel="noopener" target="_blank">Netlify</a></p>
     <ul class="list-reset list-inline small">
       {{ range .Site.Params.social }}
       <li class="list-inline-item pt1 px1">
         <a class="no-underline" href="{{ .url }}" target="_blank" rel="noopener">
           <img src="{{ .Site.BaseURL }}/img/icons/{{ .title | lower }}.svg" class="icon" alt="{{ .title }}"
-            title="{{ .title }}" style="width: 20px;">
+            title="{{ .title }}" width="20">
         </a>
       </li>
       {{ end }}
+      <li class="list-inline-item px1">
+        <a class="footer-link no-underline" href="#top">
+          <img src="/img/icons/arrow-up.svg" class="icon" alt="Back to top" title="Back to Top" width="20">
+        </a>
+      </li>
     </ul>
+    <p class="small text-dark mt1">&copy; <a class="regular" href="https://ttntm.me">{{ .Site.Author.name }}</a> & Contributors - {{ dateFormat "2006" now }}</p>
   </footer>
   <style>
     a {

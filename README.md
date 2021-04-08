@@ -15,7 +15,6 @@
       - [Scripts and Code Snippets](#scripts-and-code-snippets)
         - [Gists](#gists)
     - [Articles](#articles)
-    - [Books](#books)
 
 ---
 
@@ -62,6 +61,8 @@
 - [CSS Support for Email Clients](https://www.campaignmonitor.com/css/) (A complete breakdown of CSS support for the most popular mobile, web and desktop email clients)
 - [eslint-config-ssjs](https://github.com/JoernBerkefeld/eslint-config-ssjs) (An eslint config for SSJS)
 - [AMPScript Beautifier](https://github.com/fib-at-isobar/beautyAmp) (VS Code extension: Format your SFMC AMPscript)
+- [Online GUID Generator](https://guidgenerator.com/online-guid-generator.aspx)
+- [Coding.Tools](https://coding.tools/) (A very useful coding toolbox for developers)
 
 #### Scripts and Code Snippets
 
@@ -70,7 +71,6 @@
 - [Sample Salesforce Marketing Cloud Content Builder Block](https://github.com/bohawi/sfmc-cb-gdrive-block) (custom content block)
 - [github.com/HowToSFMC](https://github.com/HowToSFMC) (see above; code related to the articles there)
 - [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate/blob/master/email.html)
-- [Online GUID Generator](https://guidgenerator.com/online-guid-generator.aspx)
 
 ##### Gists
 
@@ -93,7 +93,3 @@
 - [How to use WSProxy to work with Data Extensions in server-side JavaScript](https://ampscript.xyz/how-tos/how-to-use-wsproxy-to-work-with-data-extensions-in-ssjs/)
 - [SFMC Server-Side JavaScript 1: Intro](https://gortonington.com/sfmc-server-side-javascript-1-intro/) (Start of a series of articles; probably the best resource on SSJS out there)
 - [Introduction to Server Side JavaScript for Marketing Cloud](https://sfdcbrewery.github.io/SalesforceSSJS/)
-
-### Books
-
-Coming soon...
