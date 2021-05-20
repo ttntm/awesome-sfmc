@@ -84,7 +84,7 @@
 - [Integrate SFMC to an External Service via REST API](https://gortonington.com/integration-of-sfmc-with-external-service-via-ssjs-rest-api/)
 - [WSProxy – Upsert Subscribers from a Data Extension](https://gortonington.com/wsproxy-upsert-subscribers-from-a-data-extension/)
 - [Visualize Data Extension Rows With Chart.js](https://invokecreate.dev/visualize-data-extension-with-chartjs)
-- [How to develop Cloudpages using Github private repository](https://www.marketingdeveloper.io/garden-1/develop-sfmc-cloudpages-using-github-private-repositories)
+- [How to develop Cloudpages using Github private repository](https://www.marketingdeveloper.io/garden/develop-sfmc-cloudpages-using-github-private-repositories)
 - [Data Extension Inventory for your SFMC Business Unit](https://gortonington.com/data-extension-inventory-for-your-sfmc-business-unit/)
 - [Make a simple API call in Salesforce Marketing Cloud using AMPscript](https://sfmarketing.cloud/2019/08/14/make-a-simple-api-call-in-salesforce-marketing-cloud-using-ampscript/)
 - [The 5 ways of adding and updating records in SFMC using AMPscript and server-side JavaScript](https://ampscript.xyz/tips-and-tricks/5-ways-adding-updating-records/)
