@@ -94,3 +94,4 @@
 - [How to use WSProxy to work with Data Extensions in server-side JavaScript](https://ampscript.xyz/how-tos/how-to-use-wsproxy-to-work-with-data-extensions-in-ssjs/)
 - [SFMC Server-Side JavaScript 1: Intro](https://gortonington.com/sfmc-server-side-javascript-1-intro/) (Start of a series of articles; probably the best resource on SSJS out there)
 - [Introduction to Server Side JavaScript for Marketing Cloud](https://sfdcbrewery.github.io/SalesforceSSJS/)
+- [Using the Wait Until API Event Activity in Journey Builder](https://sfmarketing.cloud/2021/04/29/using-the-wait-until-api-event-activity/)
