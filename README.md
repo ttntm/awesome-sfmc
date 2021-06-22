@@ -95,3 +95,4 @@
 - [SFMC Server-Side JavaScript 1: Intro](https://gortonington.com/sfmc-server-side-javascript-1-intro/) (Start of a series of articles; probably the best resource on SSJS out there)
 - [Introduction to Server Side JavaScript for Marketing Cloud](https://sfdcbrewery.github.io/SalesforceSSJS/)
 - [Using the Wait Until API Event Activity in Journey Builder](https://sfmarketing.cloud/2021/04/29/using-the-wait-until-api-event-activity/)
+- [How to protect your Cloud pages](https://ampscript.xyz/how-tos/protect-your-cloud-pages/)
