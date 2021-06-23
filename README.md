@@ -96,3 +96,4 @@
 - [Introduction to Server Side JavaScript for Marketing Cloud](https://sfdcbrewery.github.io/SalesforceSSJS/)
 - [Using the Wait Until API Event Activity in Journey Builder](https://sfmarketing.cloud/2021/04/29/using-the-wait-until-api-event-activity/)
 - [How to protect your Cloud pages](https://ampscript.xyz/how-tos/protect-your-cloud-pages/)
+- [Transactional Send Journeys and the Event Notification Service](https://markus.codes/2020/11/26/salesforce-marketing-cloud-transactional-send-journeys-event-notification-service)
