@@ -45,6 +45,7 @@
 - [sprignaturemoves.com/category/salesforce-marketing-cloud](https://sprignaturemoves.com/category/salesforce-marketing-cloud/) (Tips for coding in the Salesforce Marketing Cloud platform)
 - [marketingdeveloper.io](https://www.marketingdeveloper.io/)</a> (curated content for Salesforce Marketeers)
 - [invokecreate.dev](https://invokecreate.dev/) (advanced use case tutorials)
+- [SFMC Cookbook](https://joernberkefeld.github.io/SFMC-Cookbook/) (A guide on how to survive as a developer for Salesforce Marketing Cloud)
 
 #### Tools and SDKs
 
@@ -63,6 +64,7 @@
 - [AMPScript Beautifier](https://github.com/fib-at-isobar/beautyAmp) (VS Code extension: Format your SFMC AMPscript)
 - [Online GUID Generator](https://guidgenerator.com/online-guid-generator.aspx)
 - [Coding.Tools](https://coding.tools/) (A very useful coding toolbox for developers)
+- [SFMC DevTools](https://github.com/Accenture/sfmc-devtools) (Accenture's Salesforce Marketing Cloud DevTools; a rapid deployment/rollout, backup and development tool)
 
 #### Scripts and Code Snippets
 
