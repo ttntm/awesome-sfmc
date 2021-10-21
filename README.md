@@ -100,3 +100,4 @@
 - [How to protect your Cloud pages](https://ampscript.xyz/how-tos/protect-your-cloud-pages/)
 - [Transactional Send Journeys and the Event Notification Service](https://markus.codes/2020/11/26/salesforce-marketing-cloud-transactional-send-journeys-event-notification-service)
 - [Solve with Cloud Apps](https://mateuszdabrowski.pl/docs/usecase/sfmc-cloud-apps/)
+- [Implementing An End-to-End Scenario in SFMC Web Studio](https://salesforcebites.com/2020/05/10/implementing-an-end-to-end-scenario-in-sfmc-web-studio/)
