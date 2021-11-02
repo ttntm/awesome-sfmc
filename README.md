@@ -101,3 +101,4 @@
 - [Transactional Send Journeys and the Event Notification Service](https://markus.codes/2020/11/26/salesforce-marketing-cloud-transactional-send-journeys-event-notification-service)
 - [Solve with Cloud Apps](https://mateuszdabrowski.pl/docs/usecase/sfmc-cloud-apps/)
 - [Implementing An End-to-End Scenario in SFMC Web Studio](https://salesforcebites.com/2020/05/10/implementing-an-end-to-end-scenario-in-sfmc-web-studio/)
+- [How to send Marketing Cloud data to SF CRM using SSJS and Bulk API 2.0](https://tidbitsforu.com/send-sfmc-sfdc-using-ssjs-bulkapi2/)
