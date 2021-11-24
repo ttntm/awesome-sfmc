@@ -102,3 +102,4 @@
 - [Solve with Cloud Apps](https://mateuszdabrowski.pl/docs/usecase/sfmc-cloud-apps/)
 - [Implementing An End-to-End Scenario in SFMC Web Studio](https://salesforcebites.com/2020/05/10/implementing-an-end-to-end-scenario-in-sfmc-web-studio/)
 - [How to send Marketing Cloud data to SF CRM using SSJS and Bulk API 2.0](https://tidbitsforu.com/send-sfmc-sfdc-using-ssjs-bulkapi2/)
+- [SFMC SQL Debugging Email Sends](https://mateuszdabrowski.pl/docs/sql/sfmc-sql-snippet-debugging-email-sends/)
