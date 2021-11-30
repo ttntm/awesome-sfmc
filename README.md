@@ -65,6 +65,7 @@
 - [Online GUID Generator](https://guidgenerator.com/online-guid-generator.aspx)
 - [Coding.Tools](https://coding.tools/) (A very useful coding toolbox for developers)
 - [SFMC DevTools](https://github.com/Accenture/sfmc-devtools) (Accenture's Salesforce Marketing Cloud DevTools; a rapid deployment/rollout, backup and development tool)
+- [AMP for Email](https://amp.dev/documentation/guides-and-tutorials/start/create_email/?format=email) (Do not confuse this with AMPscript)
 
 #### Scripts and Code Snippets
 
