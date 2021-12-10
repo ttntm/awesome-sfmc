@@ -32,6 +32,7 @@
 ### Community
 
 - [SFMC StackExchange](https://salesforce.stackexchange.com/?tags=marketing-cloud)
+- [SFMC Known Issues](https://sprignaturemoves.com/sfmcki.php)
 - [AMPscript Guide](https://ampscript.guide/)
 - [AMPscript Blog](https://ampscript.xyz/)
 - [Email Client Market Share (2019)](https://www.litmus.com/blog/infographic-the-2019-email-client-market-share/)
