@@ -47,6 +47,7 @@
 - [marketingdeveloper.io](https://www.marketingdeveloper.io/)</a> (curated content for Salesforce Marketeers)
 - [invokecreate.dev](https://invokecreate.dev/) (advanced use case tutorials)
 - [SFMC Cookbook](https://joernberkefeld.github.io/SFMC-Cookbook/) (A guide on how to survive as a developer for Salesforce Marketing Cloud)
+- [SFMCIFY](https://sfmcify.com) (SFMC Technical Stuff)
 
 #### Tools and SDKs
 
@@ -105,3 +106,4 @@
 - [Implementing An End-to-End Scenario in SFMC Web Studio](https://salesforcebites.com/2020/05/10/implementing-an-end-to-end-scenario-in-sfmc-web-studio/)
 - [How to send Marketing Cloud data to SF CRM using SSJS and Bulk API 2.0](https://tidbitsforu.com/send-sfmc-sfdc-using-ssjs-bulkapi2/)
 - [SFMC SQL Debugging Email Sends](https://mateuszdabrowski.pl/docs/sql/sfmc-sql-snippet-debugging-email-sends/)
+- [Create automations runtimes and frequencies dashboard using REST API](https://sfmcify.com/create-automations-runtimes-and-frequencies-dashboard-using-rest-api/)
