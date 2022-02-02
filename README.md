@@ -48,6 +48,7 @@
 - [invokecreate.dev](https://invokecreate.dev/) (advanced use case tutorials)
 - [SFMC Cookbook](https://joernberkefeld.github.io/SFMC-Cookbook/) (A guide on how to survive as a developer for Salesforce Marketing Cloud)
 - [SFMCIFY](https://sfmcify.com) (SFMC Technical Stuff)
+- [](https://www.sfmcstack.com) (All things Salesforce Marketing Cloud)
 
 #### Tools and SDKs
 
@@ -107,3 +108,4 @@
 - [How to send Marketing Cloud data to SF CRM using SSJS and Bulk API 2.0](https://tidbitsforu.com/send-sfmc-sfdc-using-ssjs-bulkapi2/)
 - [SFMC SQL Debugging Email Sends](https://mateuszdabrowski.pl/docs/sql/sfmc-sql-snippet-debugging-email-sends/)
 - [Create automations runtimes and frequencies dashboard using REST API](https://sfmcify.com/create-automations-runtimes-and-frequencies-dashboard-using-rest-api/)
+- [Work with Data Filters in SSJS using WSProxy](https://www.sfmcstack.com/post/work-with-data-filters-in-ssjs-using-wsproxy)
