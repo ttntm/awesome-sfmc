@@ -48,7 +48,7 @@
 - [invokecreate.dev](https://invokecreate.dev/) (advanced use case tutorials)
 - [SFMC Cookbook](https://joernberkefeld.github.io/SFMC-Cookbook/) (A guide on how to survive as a developer for Salesforce Marketing Cloud)
 - [SFMCIFY](https://sfmcify.com) (SFMC Technical Stuff)
-- [](https://www.sfmcstack.com) (All things Salesforce Marketing Cloud)
+- [SFMC Stack](https://www.sfmcstack.com) (All things Salesforce Marketing Cloud)
 
 #### Tools and SDKs
 
