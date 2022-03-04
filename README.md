@@ -78,6 +78,7 @@
 - [github.com/HowToSFMC](https://github.com/HowToSFMC) (see above; code related to the articles there)
 - [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate/blob/master/email.html)
 - [Bulletproof email buttons](https://buttons.cm)
+- [Clear a DE using WSProxy](https://ssjs.dev/2020/06/30/ssjs/clear-a-de-using-wsproxy/)
 
 ##### Gists
 
