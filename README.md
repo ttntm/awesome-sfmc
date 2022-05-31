@@ -49,6 +49,8 @@
 - [SFMC Cookbook](https://joernberkefeld.github.io/SFMC-Cookbook/) (A guide on how to survive as a developer for Salesforce Marketing Cloud)
 - [SFMCIFY](https://sfmcify.com) (SFMC Technical Stuff)
 - [SFMC Stack](https://www.sfmcstack.com) (All things Salesforce Marketing Cloud)
+- [SFMC Quest](https://sfmc.quest) (Rafał Wolsztyniak's site)
+- [sfmr.dev()](https://sfmr.dev) (Michał Rzepka's site)
 
 #### Tools and SDKs
 
