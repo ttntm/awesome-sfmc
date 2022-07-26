@@ -113,3 +113,4 @@
 - [SFMC SQL Debugging Email Sends](https://mateuszdabrowski.pl/docs/sql/sfmc-sql-snippet-debugging-email-sends/)
 - [Create automations runtimes and frequencies dashboard using REST API](https://sfmcify.com/create-automations-runtimes-and-frequencies-dashboard-using-rest-api/)
 - [Work with Data Filters in SSJS using WSProxy](https://www.sfmcstack.com/post/work-with-data-filters-in-ssjs-using-wsproxy)
+- [Determining Business Unit Subscriber Status](https://sprignaturemoves.com/determining-business-unit-subscriber-status/)
