@@ -52,7 +52,9 @@
 - [SFMC Quest](https://sfmc.quest) (Rafał Wolsztyniak's site)
 - [sfmr.dev()](https://sfmr.dev) (Michał Rzepka's site)
 
-#### Tools and SDKs
+### Code
+
+#### SDKs & Tools
 
 - [AMPscript syntax validation and highlighting tool](https://ampscript.io/)
 - [VS Code: Syntax highlighting for AMPscript](https://marketplace.visualstudio.com/items?itemName=sergey-agadzhanov.AMPscript)
@@ -73,7 +75,7 @@
 - [AMP for Email](https://amp.dev/documentation/guides-and-tutorials/start/create_email/?format=email) (Do not confuse this with AMPscript)
 - [Email360's ssjs-lib](https://github.com/email360/ssjs-lib) (A sleek and powerful library for faster and easier development in Salesforce Marketing Cloud)
 
-#### Scripts and Code Snippets
+#### Code Snippets & Scripts
 
 - [Journey Builder custom activity example](https://github.com/salesforce-marketingcloud/sfmc-example-jb-custom-activity)
 - [Marketing Cloud - Service Cloud Custom Split Activity](https://github.com/mslabina/sfmc-servicecloud-customsplit)
@@ -83,12 +85,18 @@
 - [Bulletproof email buttons](https://buttons.cm)
 - [Clear a DE using WSProxy](https://ssjs.dev/2020/06/30/ssjs/clear-a-de-using-wsproxy/)
 
-##### Gists
+#### Gists
 
 - [gist.github.com/wvpv](https://gist.github.com/wvpv) (AMPscript, SSJS, SQL, etc.)
 - [gist.github.com/katydorjee](https://gist.github.com/katydorjee) (AMPscript, SSJS, SQL)
 - [gist.github.com/zuzannamj](https://gist.github.com/zuzannamj) (AMPscript, SSJS, SQL, etc.)
 - [gist.github.com/jdeblank](https://gist.github.com/jdeblank) (SSJS, WSProxy)
+
+#### Learn to Code
+
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [sqlcrashcourse.com](https://sqlcrashcourse.com)
 
 ### Articles
 
