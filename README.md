@@ -11,7 +11,7 @@
   - [Resources](#resources)
     - [Official](#official)
     - [Community](#community)
-    - [Code]
+    - [Code](#code)
       - [SDKs & Tools](##sdks--tools)
       - [Code Snippets & Scripts](#code-snippets--scripts)
       - [Gists](#gists)
