@@ -11,9 +11,11 @@
   - [Resources](#resources)
     - [Official](#official)
     - [Community](#community)
-      - [Tools and SDKs](#tools-and-sdks)
-      - [Scripts and Code Snippets](#scripts-and-code-snippets)
-        - [Gists](#gists)
+    - [Code]
+      - [SDKs & Tools](##sdks--tools)
+      - [Code Snippets & Scripts](#code-snippets--scripts)
+      - [Gists](#gists)
+      - [Learn to Code](#learn-to-code)
     - [Articles](#articles)
 
 ---
