@@ -76,6 +76,7 @@
 - [SFMC DevTools](https://github.com/Accenture/sfmc-devtools) (Accenture's Salesforce Marketing Cloud DevTools; a rapid deployment/rollout, backup and development tool)
 - [AMP for Email](https://amp.dev/documentation/guides-and-tutorials/start/create_email/?format=email) (Do not confuse this with AMPscript)
 - [Email360's ssjs-lib](https://github.com/email360/ssjs-lib) (A sleek and powerful library for faster and easier development in Salesforce Marketing Cloud)
+-[MJML](https://mjml.io/) (The only framework that makes responsive email easy)
 
 #### Code Snippets & Scripts
 
@@ -124,3 +125,4 @@
 - [Create automations runtimes and frequencies dashboard using REST API](https://sfmcify.com/create-automations-runtimes-and-frequencies-dashboard-using-rest-api/)
 - [Work with Data Filters in SSJS using WSProxy](https://www.sfmcstack.com/post/work-with-data-filters-in-ssjs-using-wsproxy)
 - [Determining Business Unit Subscriber Status](https://sprignaturemoves.com/determining-business-unit-subscriber-status/)
+- [Use Emails as Custom Activities in SFMC](https://sf-marketing.com/use-emails-as-custom-activities-in-sfmc/)
