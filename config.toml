@@ -27,6 +27,3 @@ disableKinds = ["RSS","sitemap","taxonomy","taxonomyTerm"]
 [[params.social]]
     title = "GitHub"
     url = "https://github.com/ttntm/awesome-sfmc"
-[[params.social]]
-    title = "Twitter"
-    url = "https://twitter.com/thet0m"
