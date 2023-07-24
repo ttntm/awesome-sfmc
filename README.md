@@ -30,6 +30,8 @@
 - [SSJS Documentation](https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-programmatic-content.meta/mc-programmatic-content/ssjs_serverSideJavaScript.htm)
 - [SFMC API Documentation](https://developer.salesforce.com/docs/atlas.en-us.mc-apis.meta/mc-apis/index-api.htm)
 - [Marketing Cloud Platform SDKs](https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-sdks.meta/mc-sdks/index-sdk.htm)
+- [Marketing Cloud Personalization Developer Docs](https://developer.salesforce.com/docs/marketing/personalization/overview)
+- [Evergage Core API Typedocs](https://salesforce-marketingcloud.github.io/mc-personalization-core-api-typedocs/) (= Interaction Studio = SF Personalization)
 
 ### Community
 
@@ -87,6 +89,7 @@
 - [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate/blob/master/email.html)
 - [Bulletproof email buttons](https://buttons.cm)
 - [Clear a DE using WSProxy](https://ssjs.dev/2020/06/30/ssjs/clear-a-de-using-wsproxy/)
+- [evergage-global-templates](https://github.com/evergage/evergage-global-templates) (official SF code)
 
 #### Gists
 
