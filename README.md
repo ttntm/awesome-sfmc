@@ -79,6 +79,7 @@
 - [AMP for Email](https://amp.dev/documentation/guides-and-tutorials/start/create_email/?format=email) (Do not confuse this with AMPscript)
 - [Email360's ssjs-lib](https://github.com/email360/ssjs-lib) (A sleek and powerful library for faster and easier development in Salesforce Marketing Cloud)
 - [MJML](https://mjml.io/) (The only framework that makes responsive email easy)
+- [jsforce](https://github.com/jsforce/jsforce) (Salesforce API Library for JavaScript applications)
 
 #### Code Snippets & Scripts
 
