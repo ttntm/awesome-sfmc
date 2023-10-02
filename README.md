@@ -55,6 +55,7 @@
 - [SFMC Stack](https://www.sfmcstack.com) (All things Salesforce Marketing Cloud)
 - [SFMC Quest](https://sfmc.quest) (Rafał Wolsztyniak's site)
 - [sfmr.dev()](https://sfmr.dev) (Michał Rzepka's site)
+- [SSJS Docs](https://www.ssjsdocs.xyz/) (Mastering server-side JavaScript by Ivan Razine)
 
 ### Code
 
