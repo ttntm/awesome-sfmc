@@ -81,6 +81,7 @@
 - [Email360's ssjs-lib](https://github.com/email360/ssjs-lib) (A sleek and powerful library for faster and easier development in Salesforce Marketing Cloud)
 - [MJML](https://mjml.io/) (The only framework that makes responsive email easy)
 - [jsforce](https://github.com/jsforce/jsforce) (Salesforce API Library for JavaScript applications)
+- [sfmc-utils](https://github.com/ttntm/sfmc-utils) (A collection of reusable SSJS utility functions for SFMC)
 
 #### Code Snippets & Scripts
 
