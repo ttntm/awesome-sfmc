@@ -83,6 +83,7 @@
 - [MJML](https://mjml.io/) (The only framework that makes responsive email easy)
 - [jsforce](https://github.com/jsforce/jsforce) (Salesforce API Library for JavaScript applications)
 - [sfmc-utils](https://github.com/ttntm/sfmc-utils) (A collection of reusable SSJS utility functions for SFMC)
+- [SSJS Manager](https://fib3.github.io/ssjs-vsc/) (A VS Code extension that streamlines SSJS development)
 
 #### Code Snippets & Scripts
 
