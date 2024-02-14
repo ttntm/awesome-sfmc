@@ -134,3 +134,4 @@
 - [Work with Data Filters in SSJS using WSProxy](https://www.sfmcstack.com/post/work-with-data-filters-in-ssjs-using-wsproxy)
 - [Determining Business Unit Subscriber Status](https://sprignaturemoves.com/determining-business-unit-subscriber-status/)
 - [Use Emails as Custom Activities in SFMC](https://sf-marketing.com/use-emails-as-custom-activities-in-sfmc/)
+- [Building a Data Viewer With Preact](https://ttntm.me/blog/building-a-data-viewer-with-preact/)
