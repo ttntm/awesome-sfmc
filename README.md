@@ -106,6 +106,7 @@
 #### Learn to Code
 
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/)
 - [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - [sqlcrashcourse.com](https://sqlcrashcourse.com)
 
