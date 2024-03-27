@@ -17,6 +17,7 @@
       - [Gists](#gists)
       - [Learn to Code](#learn-to-code)
     - [Articles](#articles)
+    - [3rd Party](#3rd-party)
 
 ---
 
@@ -57,10 +58,6 @@
 - [SFMC Quest](https://sfmc.quest) (Rafał Wolsztyniak's site)
 - [sfmr.dev()](https://sfmr.dev) (Michał Rzepka's site)
 - [SSJS Docs](https://www.ssjsdocs.xyz/) (Mastering server-side JavaScript by Ivan Razine)
-
-### 3rd Party
-
-- [Google Postmaster Tools](https://www.gmail.com/postmaster/)
 
 ### Code
 
@@ -140,3 +137,7 @@
 - [Determining Business Unit Subscriber Status](https://sprignaturemoves.com/determining-business-unit-subscriber-status/)
 - [Use Emails as Custom Activities in SFMC](https://sf-marketing.com/use-emails-as-custom-activities-in-sfmc/)
 - [Building a Data Viewer With Preact](https://ttntm.me/blog/building-a-data-viewer-with-preact/)
+
+### 3rd Party
+
+- [Google Postmaster Tools](https://www.gmail.com/postmaster/)
