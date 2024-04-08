@@ -12,7 +12,7 @@
     - [Official](#official)
     - [Community](#community)
     - [Code](#code)
-      - [SDKs & Tools](##sdks--tools)
+      - [SDKs & Tools](#sdks--tools)
       - [Code Snippets & Scripts](#code-snippets--scripts)
       - [Gists](#gists)
       - [Learn to Code](#learn-to-code)
@@ -71,8 +71,8 @@
 - [Salesforce Marketing Cloud Fuel SDK for Node](https://github.com/salesforce-marketingcloud/FuelSDK-Node)
 - [Fuel SOAP Client (for Node.js)](https://github.com/salesforce-marketingcloud/FuelSDK-Node-SOAP)
 - [poo.email - a disposable email service](https://poo.email)
-- [topol.io](https://topol.io/) (Free browser-based HTML email generator with a nice UI)
-- [caniemail.com](https://www.caniemail.com/) (CanIUse for email stuff)
+- [topol.io](https://topol.io) (Free browser-based HTML email generator with a nice UI)
+- [caniemail.com](https://www.caniemail.com) (CanIUse for email stuff)
 - [CSS Support for Email Clients](https://www.campaignmonitor.com/css/) (A complete breakdown of CSS support for the most popular mobile, web and desktop email clients)
 - [eslint-config-ssjs](https://github.com/JoernBerkefeld/eslint-config-ssjs) (An eslint config for SSJS)
 - [AMPScript Beautifier](https://github.com/fib-at-isobar/beautyAmp) (VS Code extension: Format your SFMC AMPscript)
@@ -85,6 +85,7 @@
 - [jsforce](https://github.com/jsforce/jsforce) (Salesforce API Library for JavaScript applications)
 - [sfmc-utils](https://github.com/ttntm/sfmc-utils) (A collection of reusable SSJS utility functions for SFMC)
 - [SSJS Manager](https://fib3.github.io/ssjs-vsc/) (A VS Code extension that streamlines SSJS development)
+- [Good Email Code](https://www.goodemailcode.com) (Best practice email code snippets)
 
 #### Code Snippets & Scripts
 
