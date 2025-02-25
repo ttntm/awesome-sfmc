@@ -67,7 +67,7 @@
 - [VS Code: Syntax highlighting for AMPscript](https://marketplace.visualstudio.com/items?itemName=sergey-agadzhanov.AMPscript)
 - [VS Code: AMPscript Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=xnerd.ampscript-language)
 - [VS Code: AMPscript code snippet](https://marketplace.visualstudio.com/items?itemName=MarketingThibs.ampscriptsnippets) (auto completion VS extension for Salesforce Marketing Cloud Users)
-- [Salesforce Marketing Cloud Enhanced API Collection](https://api.mcexperts.ninja/) (Postman collection)
+- [Salesforce Developers API Collection](https://www.postman.com/salesforce-developers/salesforce-developers/overview) (Postman collection, API resources for Salesforce Developers)
 - [Salesforce Marketing Cloud Fuel SDK for Node](https://github.com/salesforce-marketingcloud/FuelSDK-Node)
 - [Fuel SOAP Client (for Node.js)](https://github.com/salesforce-marketingcloud/FuelSDK-Node-SOAP)
 - [poo.email - a disposable email service](https://poo.email)
