@@ -70,7 +70,6 @@
 - [Salesforce Developers API Collection](https://www.postman.com/salesforce-developers/salesforce-developers/overview) (Postman collection, API resources for Salesforce Developers)
 - [Salesforce Marketing Cloud Fuel SDK for Node](https://github.com/salesforce-marketingcloud/FuelSDK-Node)
 - [Fuel SOAP Client (for Node.js)](https://github.com/salesforce-marketingcloud/FuelSDK-Node-SOAP)
-- [poo.email - a disposable email service](https://poo.email)
 - [topol.io](https://topol.io) (Free browser-based HTML email generator with a nice UI)
 - [caniemail.com](https://www.caniemail.com) (CanIUse for email stuff)
 - [CSS Support for Email Clients](https://www.campaignmonitor.com/css/) (A complete breakdown of CSS support for the most popular mobile, web and desktop email clients)
@@ -95,7 +94,6 @@
 - [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate/blob/master/email.html)
 - [Bulletproof email buttons](https://buttons.cm)
 - [Clear a DE using WSProxy](https://ssjs.dev/2020/06/30/ssjs/clear-a-de-using-wsproxy/)
-- [evergage-global-templates](https://github.com/evergage/evergage-global-templates) (official SF code)
 
 #### Gists
 
