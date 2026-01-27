@@ -84,6 +84,7 @@
 - [sfmc-utils](https://github.com/ttntm/sfmc-utils) (A collection of reusable SSJS utility functions for SFMC)
 - [SSJS Manager](https://fib3.github.io/ssjs-vsc/) (A VS Code extension that streamlines SSJS development)
 - [Good Email Code](https://www.goodemailcode.com) (Best practice email code snippets)
+- [AboutMy.email](https://aboutmy.email) (Email best practice testing tool)
 
 #### Code Snippets & Scripts
 
