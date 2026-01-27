@@ -23,7 +23,7 @@ disableKinds = ["RSS","sitemap","taxonomy","taxonomyTerm"]
 
 [[params.social]]
     title = "Email"
-    url = "mailto:ttntm@pm.me"
+    url = "https://ttntm.me/contact/"
 [[params.social]]
     title = "GitHub"
     url = "https://github.com/ttntm/awesome-sfmc"
