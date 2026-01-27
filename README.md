@@ -136,6 +136,7 @@
 - [Determining Business Unit Subscriber Status](https://sprignaturemoves.com/determining-business-unit-subscriber-status/)
 - [Use Emails as Custom Activities in SFMC](https://sf-marketing.com/use-emails-as-custom-activities-in-sfmc/)
 - [Building a Data Viewer With Preact](https://ttntm.me/blog/building-a-data-viewer-with-preact/)
+- [Email authentication records to improve deliverability](https://www.mikestreety.co.uk/blog/email-authentication-records-to-improve-deliverability/)
 
 ### 3rd Party
 
