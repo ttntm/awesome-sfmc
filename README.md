@@ -58,6 +58,7 @@
 - [SFMC Quest](https://sfmc.quest) (Rafał Wolsztyniak's site)
 - [sfmr.dev()](https://sfmr.dev) (Michał Rzepka's site)
 - [SSJS Docs](https://www.ssjsdocs.xyz/) (Mastering server-side JavaScript by Ivan Razine)
+- [ssjs.guide](https://ssjs.guide) (Everything you need to write, debug, and master SSJS in SFMC)
 
 ### Code
 
@@ -85,6 +86,7 @@
 - [SSJS Manager](https://fib3.github.io/ssjs-vsc/) (A VS Code extension that streamlines SSJS development)
 - [Good Email Code](https://www.goodemailcode.com) (Best practice email code snippets)
 - [AboutMy.email](https://aboutmy.email) (Email best practice testing tool)
+- [VS Code: SFMC Language Service](https://marketplace.visualstudio.com/items?itemName=joernberkefeld.sfmc-language)
 
 #### Code Snippets & Scripts
 
